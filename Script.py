@@ -246,7 +246,7 @@ Nᴀᴍᴇ - {}"""
 
 𝗠𝗲𝘀𝘀𝗮𝗴𝗲 <b>: {}</b>"""
 
-    CAPTION = """<b>📂Fɪʟᴇɴᴀᴍᴇ : {file_name}
+    CAPTION = """<a href='https://t.me/movies_hd_01'>{file_name}</a><b>📂Fɪʟᴇɴᴀᴍᴇ : {file_name}
 
 <b> Size ⚙️: {file_size}</b>""" 
 
